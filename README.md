@@ -1,4 +1,3 @@
-# 2020-21-webdesign-esercitazione
 
 #Personas
 Vittoria Moi, stilista, 24 anni, vive a Cremona. 
